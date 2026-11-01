@@ -1,6 +1,6 @@
 <h1 align="center">Wavr</h1>
 <p align="center">
-  <img src=".github/assets/banner.png" alt="Wavr Banner" width="100%">
+  <img src="./.github/assets/banner.png" alt="Wavr Banner" width="100%">
 </p>
 
 WAVR is a beautiful desktop music player for Navidrome, Airsonic, Gonic, and other Subsonic/OpenSubsonic-compatible servers. It connects directly to your existing server - no plugins or server-side changes required.
