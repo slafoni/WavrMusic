@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "jsx": "react-jsx",
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "forceConsistentCasingInFileNames": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "declaration": false,
+    "paths": {
+      "@/*": ["./src/renderer/*"],
+      "@services/*": ["./src/renderer/services/*"],
+      "@state/*": ["./src/renderer/state/*"],
+      "@components/*": ["./src/renderer/components/*"],
+      "@hooks/*": ["./src/renderer/hooks/*"],
+      "@utils/*": ["./src/renderer/utils/*"],
+      "@styles/*": ["./src/renderer/styles/*"],
+      "@themes/*": ["./src/renderer/themes/*"],
+      "@shared/*": ["./shared/*"]
+    },
+    "types": ["node", "vite/client"]
+  },
+  "include": ["src/renderer/**/*", "src/main/**/*", "src/preload/**/*", "shared/**/*", "vite.config.js"],
+  "exclude": ["node_modules", "dist", "release", "tests"]
+}
