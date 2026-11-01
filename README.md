@@ -239,6 +239,14 @@ WAVR detects the Subsonic API version and OpenSubsonic extensions, then hides ac
     alt="Background"
   >
 </p>
+
+### Profile
+<p align="center">
+  <img
+    src="./.github/assets/screenshots/profilePage.png"
+    alt="Background"
+  >
+</p>
 ## Licence
 
 GNU Affero General Public License v3.0
