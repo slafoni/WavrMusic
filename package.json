@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "wavr",
   "productName": "WAVR",
   "description": "WAVR is a beautiful desktop music player for Navidrome and Subsonic-compatible servers.",
@@ -153,7 +153,7 @@
       "icon": "assets/icon.png"
     }
   },
-  "version": "1.0.23dev",
+  "version": "1.0.18",
   "homepage": "https://listenwavr.xyz",
   "allowScripts": {
     "electron-winstaller@5.4.0": true,
