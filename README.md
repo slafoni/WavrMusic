@@ -12,7 +12,7 @@ Built with Electron, React, TypeScript, and Vite. WAVR keeps your library and cr
 - Multiple server profiles with one-click switching
 - Personalised home hero, Jump Back In, Recently Added, rotation, recommendations, rediscovery, history, and most-played shelves
 - Discover feeds with multiple Because you like tabs and sections built from your library and Last.fm
-- Browse artists, albums, songs, genres, playlists, and favourites
+- Browse artists, albums, songs, genres, playlists, and favourites.
 - Debounced global search across songs, artists, albums, and playlists, with artwork and direct playback actions
 - Refined album cards with hover/touch controls, queue, favourites, and contextual menus
 - Persistent mini-player with full playback, queue, volume, lyrics, and progress controls
